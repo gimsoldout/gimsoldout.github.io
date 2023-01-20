@@ -7,7 +7,6 @@
 h1::selection,
 h2::selection {
   color: #111;
-  background: var(--primary-color);
 }
 
 /* Buttons */
@@ -29,6 +28,11 @@ h2::selection {
 /* add hover */
 .btn-primary:hover {
   background: var(--secondary-color);
+}
+
+#seemore.btn {
+  align-self: center;
+  margin: 2rem 0;
 }
 
 /* Header Container */
