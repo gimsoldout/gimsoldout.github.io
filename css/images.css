@@ -1,0 +1,67 @@
+/* Study Images */
+
+/* Study 1 */
+#study:nth-child(1) {
+    background: url(../assets/project/study-one.jpg) center center/cover;
+}
+
+/* Study 2 */
+#study:nth-child(2) {
+    background: url(../assets/project/study-two.jpg) center center/cover;
+}
+
+/* Study 3 */
+#study:nth-child(3) {
+    background: url(../assets/project/study-three.png) center center/cover;
+}
+
+
+/* Love Images */
+
+/* Love 1 */
+#love:nth-child(1) {
+    background: url(../assets/project/love-one.jfif) center center/cover;
+}
+
+/* Love 2 */
+#love:nth-child(2) {
+    background: url(../assets/project/love-two.png) center center/cover;
+}
+
+/* Love 3 */
+#love:nth-child(3) {
+    background: url(../assets/project/love-three.jpg) center center/cover;
+}
+
+
+/* Work Images */
+
+/* Work 1 */
+#work:nth-child(1) {
+    background: url(../assets/project/project-one.jpg) center center/cover;
+}
+
+/* Work 2 */
+#work:nth-child(2) {
+    background: url(../assets/project/project-two.png) center center/cover;
+}
+
+/* Work 3 */
+#work:nth-child(3) {
+    background: url(../assets/project/project-three.jpg) center center/cover;
+}
+
+/* Work 4 */
+#work:nth-child(4) {
+    background: url(../assets/project/project-four.jpg) center center/cover;
+}
+
+/* Work 5 */
+#work:nth-child(5) {
+    background: url(../assets/project/project-five.png) center center/cover;
+}
+
+/* Work 6 */
+#work:nth-child(6) {
+    background: url(../assets/project/project-six.png) center center/cover;
+}
